@@ -1,0 +1,3 @@
+[submodule "lib/zelf_parser"]
+	path = lib/zelf_parser
+	url = git@github.com:zaneoblaneo/zElf_Parser
